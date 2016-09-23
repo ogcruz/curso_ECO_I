@@ -1,0 +1,17 @@
+ DEP VAR:       Y      N:      36  MULTIPLE R: 0.777  SQUARED MULTIPLE R: 0.604
+ ADJUSTED SQUARED MULTIPLE R:  .592    STANDARD ERROR OF ESTIMATE:        4.697
+
+ VARIABLE      COEFFICIENT    STD ERROR     STD COEF TOLERANCE    T   P(2 TAIL)
+
+ CONSTANT            3.997        1.642        0.000      .       2.434    0.020
+ X                   0.282        0.039        0.777     1.000    7.197    0.000
+
+
+                        ANALYSIS OF VARIANCE
+
+ SOURCE       SUM-OF-SQUARES   DF  MEAN-SQUARE     F-RATIO       P
+
+ REGRESSION        1142.599     1     1142.599      51.801       0.000
+ RESIDUAL           749.956    34       22.058
+
+
